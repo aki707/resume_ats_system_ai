@@ -1,0 +1,11 @@
+Django
+djangorestframework
+streamlit
+groq
+python-dotenv
+requests
+PyPDF2
+python-docx
+pdfplumber
+django-cors-headers
+
